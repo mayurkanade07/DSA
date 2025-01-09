@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine( Solution.MergeAlternately("abc", "pqrzz"));
+            Console.WriteLine( Solution.MergeAlternately("abc", "pqrzz"));
             Console.WriteLine(Solution.GcdOfStrings("TAUXXTAUXXTAUXXTAUXXTAUXX", "TAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXX"));
             
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSA Problems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+234a9433398f1e71e128c50c96bd6a08ef44c92f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSA Problems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSA Problems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

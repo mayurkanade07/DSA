@@ -47,13 +47,13 @@
             {
                 return "";
             }
-            int a =str1.Length;
-            int b = str2.Length;
+            int a =str1.Length; //25
+            int b = str2.Length; //45
             while (b>0)
             {
-                int temp = b;
-                b = a % b;
-                a= temp;
+                int temp = b;   // 45   25  20  5
+                b = a % b;      // 25   20  5   0
+                a= temp;        // 45   25  20  5
             }
 
             string str = str1.Substring(0, a);

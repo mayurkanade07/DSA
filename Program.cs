@@ -30,7 +30,7 @@
                     {
                         finalstr += (word1[p1++]);
                     }
-                   if(p2<l2)
+                    if (p2 < l2)
                     {
                         finalstr += (word2[p2++]);
                     }
